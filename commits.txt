@@ -1,0 +1,29 @@
+commit 025577bbf5c4687aea81c77e757875a915d0f182
+Author: sabit0 <junior_tre@live.com.mx>
+Date:   Mon Jan 23 00:19:37 2023 -0600
+
+    mensaje h5
+
+commit 266ef0ba8fe0f615d9a167a9ec33829f34f4ee4c
+Author: sabit0 <junior_tre@live.com.mx>
+Date:   Sat Jan 21 19:50:00 2023 -0600
+
+    mensaje descriptivo del cambio h
+
+commit 806a3a247c6ef2241c03772fc566e3e91d3cea2f
+Author: Sabit0 <78921534+Sabit0@users.noreply.github.com>
+Date:   Thu Jan 19 21:35:28 2023 -0600
+
+    licencia txt
+
+commit 734a2027ef34b342606a235207c20d1a1061d75d
+Author: sabit0 <junior_tre@live.com.mx>
+Date:   Wed Jan 18 19:28:02 2023 -0600
+
+    “v.1.0.1”
+
+commit 94829e02c505753c20d5e0abb8e703cc74d595cd
+Author: Juan <junior_tre@live.com.mx>
+Date:   Mon Jan 16 13:48:03 2023 -0600
+
+    pokeapi v1.0.0
